@@ -21,6 +21,6 @@ Hello, we are from CH2-PS399!
 ## Documentation
 Here is our sourcode documentation:
 - Mobile Apps: https://github.com/aqyun/SiPetta
-- Machine Learning : 
+- Machine Learning : https://github.com/SiPetta/Machine-Learning
 - Cloud & Backend : https://github.com/SiPetta/Cloud-Computing
 - Web Admin : http://35.185.203.218/
